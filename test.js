@@ -26,3 +26,5 @@ function recursion_pow(base, exp) {
         return 1;
     return base * recursion_pow(base, exp - 1);
 }
+
+console.log("mark");
