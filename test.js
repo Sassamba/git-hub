@@ -28,3 +28,4 @@ function recursion_pow(base, exp) {
 }
 
 console.log("mark");
+console.log("other mark");
